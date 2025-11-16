@@ -1059,7 +1059,7 @@
     const canStart = machineState.phase === "idle";
     const canStop = machineState.phase !== "idle";
     return /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "grok-panel", children: [
-      /* @__PURE__ */ jsxRuntimeExports.jsx("h1", { className: "grok-title", children: "Grok Assistant" }),
+      /* @__PURE__ */ jsxRuntimeExports.jsx("h1", { className: "grok-title", children: "Grok Retry Assistant" }),
       /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "grok-row", children: [
         /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { children: [
           /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "grok-label", children: "Status" }),

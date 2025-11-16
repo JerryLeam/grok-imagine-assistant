@@ -177,7 +177,7 @@ function App() {
 
   return (
     <div className="grok-panel">
-      <h1 className="grok-title">Grok Assistant</h1>
+      <h1 className="grok-title">Grok Retry Assistant</h1>
       <div className="grok-row">
         <div>
           <div className="grok-label">Status</div>
@@ -293,7 +293,7 @@ function App() {
       </div>
       <div className="grok-actions">
         <button onClick={handleStart} disabled={!canStart}>
-          Start
+          Start Auto Retry
         </button>
         <button onClick={handleStop} disabled={!canStop}>
           Stop
