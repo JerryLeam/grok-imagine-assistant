@@ -4,6 +4,8 @@ A powerful userscript that automates retry handling and video upscaling for Grok
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+<img width="400" height="1160" alt="image" src="https://github.com/user-attachments/assets/cbc3a1e1-a4ff-47c4-a105-a3f8309e2222" />
+
 ## 🌟 Features
 
 ### Core Functionality
